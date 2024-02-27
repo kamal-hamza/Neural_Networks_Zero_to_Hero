@@ -1,0 +1,4 @@
+RUN ANACONDA PROMPT AS ADMINISTRATOR
+
+conda install ipykernel
+conda install -c conda-forge python-graphviz
